@@ -1,4 +1,5 @@
 import React from 'react';
+import './style.css';
 
 let ListContainer = WrappedComponent => {
     return class extends React.Component {
